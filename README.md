@@ -1,2 +1,2 @@
-HELLO EUROPA!
+Привет Мир !
 x
